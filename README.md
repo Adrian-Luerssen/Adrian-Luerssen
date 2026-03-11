@@ -63,9 +63,9 @@ A self-hosted personal data platform that consolidates fitness, music, habits, a
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=adrian-luerssen&count_private=true&include_all_commits=true&include_orgs=true&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=adrian-luerssen&count_private=true&include_all_commits=true&include_orgs=true&show_icons=true&theme=default&hide_border=true" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=adrian-luerssen&count_private=true&include_all_commits=true&include_orgs=true&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=adrian-luerssen&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=adrian-luerssen&count_private=true&include_all_commits=true&show_icons=true&theme=default&hide_border=true" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=adrian-luerssen&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=adrian-luerssen&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
